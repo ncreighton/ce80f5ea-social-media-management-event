@@ -1,2 +1,34 @@
-# ce80f5ea-social-media-management-event
-Professional social media management automation bot — without the professional price tag.  24/7 operation — runs on your server or scales to any hosting platform. Easy setup: invite → configure → active in under 10 minutes.  ## What's Included  - Social Media Management Event Scheduler And Rsvp Manager — fully configured and ready to use - Slash co
+# Social Media Management Event Scheduler and RSVP Manager Bot
+
+Create events, manage RSVPs, send reminders, and track attendance. Community events without external tools.
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/6oU00jbHh9MwcVW7jCcZM1G)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/6oU00jbHh9MwcVW7jCcZM1G)
+
